@@ -1,0 +1,8 @@
+{
+  "name": "AdGen Studio",
+  "description": "Générateur IA de photos et vidéos publicitaires professionnelles à partir de descriptions textuelles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
